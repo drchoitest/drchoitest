@@ -20,14 +20,15 @@
 
 | 저장소 | 설명 |
 |---|---|
-| [my-portfolio](https://github.com/drchoitest/my-portfolio) | GitHub Pages로 게시한 포트폴리오 웹사이트 |
-| [study-notes](https://github.com/drchoitest/study-notes) | 주차별 학습 노트 |
-| [til](https://github.com/drchoitest/til) | 오늘 배운 것(Today I Learned) |
+| [my-portfolio](https://github.com/drchoitest/my-portfolio) | 포트폴리오 웹사이트 → [사이트 보기](https://drchoitest.github.io/my-portfolio/) |
+| [flu-season](https://github.com/drchoitest/flu-season) | 합성 데이터로 독감 유행 시작 시점 분석(노트북) |
+| [my-ebook](https://github.com/drchoitest/my-ebook) | 여러 파일로 만든 HTML 전자책 → [읽기](https://drchoitest.github.io/my-ebook/) |
 
 ## 🎯 올해 목표
 
 - [x] GitHub 계정 만들고 첫 저장소 만들기
 - [x] 포트폴리오 웹사이트 게시하기
+- [x] 데이터 분석 프로젝트 1개 공개하기
 - [ ] 데이터 분석 프로젝트 3개 완성하기
 
 ## 📫 연락처

@@ -1,43 +1,48 @@
-# 김하늘 | 데이터 분석가 📊
+# 김하늘, MD, PhD
 
-> 공공·의료 데이터를 분석해 **의사결정에 쓸 수 있는 질문과 답**을 만드는 일을 합니다.
+**소아청소년과 전문의 · 의료 인공지능 연구자**
+○○대학교 의과대학 소아청소년과학교실
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-사이트_보기-1f6feb)](https://drchoitest.github.io)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+> 소아 환자의 진료 데이터를 이용해 조기 경보 모델을 연구하고, 진료 현장에서 쓸 수 있는 도구로 만드는 일을 합니다.
 
-## 🔍 관심 분야
+---
 
-- 공공 보건 데이터의 시계열 분석
-- 설명 가능한 예측 모델
-- 재현 가능한 분석(코드 · 데이터 출처 · 결과를 함께 공개)
+### 🔬 연구 분야
 
-## 🧰 기술
+- 소아 응급 환자의 중증도 예측
+- 의료 인공지능의 외부 검증과 공정성
+- 재현 가능한 임상 연구 방법
 
-| 영역 | 사용 도구 | 수준 |
+### 📄 주요 논문 (예시)
+
+1. **Kim H**, et al. Example title of a pediatric early warning model. *Example Journal*. 2025.
+2. Lee S, **Kim H**. Example title on external validation. *Example Journal*. 2024.
+
+[전체 논문 목록 →](https://drchoitest.github.io/#publications)
+
+### 🎤 발표·강의
+
+| 연도 | 제목 | 행사 |
 |---|---|---|
-| 분석 | Python(pandas, scikit-learn), R(tidyverse) | 실무 |
-| 시각화 | matplotlib, ggplot2, Tableau | 실무 |
-| 데이터베이스 | SQL(PostgreSQL) | 중급 |
-| 협업 | Git, GitHub Actions | 중급 |
+| 2026 | 의료진을 위한 GitHub 입문 | ○○학회 교육 세션 |
+| 2025 | 소아 조기 경보 모델 개발 경험 | ○○ 심포지엄 |
 
-## 📈 대표 프로젝트
+### 🧪 연구 코드와 자료
 
-| 프로젝트 | 질문 | 방법 | 결과 |
-|---|---|---|---|
-| [계절별 독감 유행 분석](https://github.com/drchoitest/flu-season) | 유행 시작 시점을 미리 알 수 있을까? | 공개 감시 자료, 시계열 분해 | 대시보드 공개 |
-| [대중교통 이용 변화](https://github.com/drchoitest/transit-trend) | 요일·날씨별 이용 차이는? | 공공 데이터 포털, 회귀 분석 | 보고서 PDF |
-| [소아 성장 곡선 시각화](https://github.com/drchoitest/growth-chart) | 표준 성장 곡선을 쉽게 보여 줄 수 있을까? | 공개 표준치, 인터랙티브 그래프 | GitHub Pages |
+| 저장소 | 내용 |
+|---|---|
+| [pews-model](https://github.com/drchoitest/pews-model) | 논문 분석 코드(합성 데이터로 재현) |
+| [lecture-github](https://github.com/drchoitest/lecture-github) | 강의 자료(CC BY 4.0) |
 
-> 모든 프로젝트는 **공개 데이터 또는 합성 데이터**만 사용합니다.
+> 환자 정보와 미공개 연구 자료는 저장소에 올리지 않습니다. 분석 코드는 합성 데이터로 재현할 수 있게 공개합니다.
 
-## 📚 최근 학습
+### 🏫 학력·경력
 
-- 2026.10 GitHub Actions로 분석 자동 갱신
-- 2026.09 데이터 시각화 강의 수료
+- 20XX–현재 ○○대학교병원 소아청소년과 임상조교수
+- 20XX ○○대학교 의학박사(PhD)
 
-## 📫 Contact
+### 📫 연락
 
-- Portfolio: https://drchoitest.github.io
-- LinkedIn: https://www.linkedin.com/in/drchoitest
+- 웹사이트: https://drchoitest.github.io
+- ORCID: https://orcid.org/0000-0000-0000-0000
+- 협업 문의: 웹사이트의 Contact 섹션 참고
